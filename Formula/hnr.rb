@@ -1,8 +1,8 @@
 class Hnr < Formula
   desc "Terminal UI for Hacker News — browse feeds, read threaded comments, vote and reply"
   homepage "https://github.com/prasanthj/hnr"
-  url "https://github.com/prasanthj/hnr/archive/refs/tags/v0.3.8.tar.gz"
-  sha256 "6834e34c02ba8bc6354a2751afeefa27e88d0f54ba49d2c1c3ab189c3bd2ba09"
+  url "https://github.com/prasanthj/hnr/archive/refs/tags/v0.4.0.tar.gz"
+  sha256 "c31d4596dd0961e00820a8ec5732f2a05674f23ccae1b750fe266c12dfed85f3"
   license "MIT"
   head "https://github.com/prasanthj/hnr.git", branch: "main"
 
